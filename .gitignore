@@ -1,0 +1,4 @@
+transcription/*.txt
+embeddings/*.json
+data/*.html
+__pycache__/
